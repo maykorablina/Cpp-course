@@ -62,17 +62,3 @@
 _Точная дата, темы и пробник будут известны позже_
 
 ---
-
-### Контесты I полугодие (архив)
-
-| Тема + ссылка | Дедлайн |
-|---------------|---------|
-| [Ввод, вывод](https://official.contest.yandex.ru/contest/67546/enter) | 05.09.25 – 12.09.25 |
-| [Арифметические операции](https://official.contest.yandex.ru/contest/67904/enter) | 12.09.25 – 19.09.25 |
-| [Условия](https://official.contest.yandex.ru/contest/68255/enter) | 19.09.25 – 26.09.25 |
-| [Циклы](https://official.contest.yandex.ru/contest/68656/enter) | 26.09.25 – 03.10.25 |
-| [Массивы](https://contest.yandex.ru/contest/69081/enter) | 03.10.25 – 10.10.25 |
-| [Строки](https://official.contest.yandex.ru/contest/69359/enter) | 10.10.25 – 17.10.25 |
-| [Ссылки, указатели](https://official.contest.yandex.ru/contest/86604/enter) | 5.12.25 – 12.12.25 |
-| [STL алгоритмы](https://official.contest.yandex.ru/contest/87089/enter) | 12.12.25 – 19.12.25 |
-| [cntst](https://official.contest.yandex.ru/contest/88793/enter) | 17.01.26 – 24.01.26 |
