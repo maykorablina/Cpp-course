@@ -11,7 +11,7 @@
 | Дата | Название темы + ссылка |
 |---------------|---------|
 | 13.02.26 | [std::map и std::set - конспект](https://github.com/maykorablina/algorithms_lyceum/blob/main/module_2/3.%20map%20%D0%B8%20set.md) |
-| 20.02.26 | [В разработке](https://yandex.ru/video/preview/5358267471053482284) |
+| 20.02.26 | [std::map и std::set - контест!](https://new.contest.yandex.ru/contests/90681/start) |
 
 #### Домашняя работа
 
