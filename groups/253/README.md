@@ -12,8 +12,7 @@
 |---------------|---------|
 | 13.02.26 | [std::map и std::set - конспект](https://github.com/maykorablina/algorithms_lyceum/blob/main/module_2/3.%20map%20%D0%B8%20set.md) |
 | 20.02.26 | [std::map и std::set - контест!](https://new.contest.yandex.ru/contests/90681/start) |
-| 06.03.26 | [sstream и fstream - контест!](https://new.contest.yandex.ru/contests/91550/start) |
-
+| 06.03.26 | [Конспект по файлам](https://github.com/maykorablina/Cpp-course/blob/main/groups/253/materials/Чтение%20и%20запись%20в%20файлы.md) [sstream и fstream - контест!](https://new.contest.yandex.ru/contests/91550/start) |
 
 
 #### Домашняя работа
