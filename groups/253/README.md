@@ -14,6 +14,7 @@
 | 20.02.26 | [std::map и std::set - контест!](https://new.contest.yandex.ru/contests/90681/start) |
 | 06.03.26 | [Конспект по файлам](https://github.com/maykorablina/Cpp-course/blob/main/groups/253/materials/Чтение%20и%20запись%20в%20файлы.md)<br>[sstream и fstream - контест!](https://new.contest.yandex.ru/contests/91550/start) |
 | 13.03.26 | [повторяем map и set вместе с файлами](https://new.contest.yandex.ru/contests/91863/start) |
+| 24.04.26 | [Конспект по сортировкам](https://github.com/maykorablina/algorithms_lyceum/blob/main/module_1/6.%20Квадратичные%20сортировки.md)<br>[Контест по сортировкам](https://contest.yandex.ru/contest/93702/enter) |
 
 
 #### Домашняя работа
